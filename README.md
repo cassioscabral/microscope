@@ -1,2 +1,2 @@
 #Link to the app
-[link](http://cassiosmeteorscope.meteor.com)
+[cassiosmicroscope](http://cassiosmicroscope.meteor.com/)
